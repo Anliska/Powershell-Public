@@ -1,0 +1,5 @@
+﻿# Local configuration and generated logs
+/Network/PingMonitor/targets.csv
+/Network/PingMonitor/*.csv
+!/Network/PingMonitor/targets.example.csv
+/Network/PingMonitor/logs/

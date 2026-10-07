@@ -1,0 +1,3 @@
+﻿name;address;source
+dns-cloudflare;1.1.1.1;
+dns-google;8.8.8.8;
